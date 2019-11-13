@@ -1,0 +1,33 @@
+
+.carousel-caption h1,
+.navbar-brand span,
+.glyphicon-chevron-left:hover::before,
+.glyphicon-chevron-right:hover::before,
+.about h2 span,
+.features .glyphicon,
+.testmonials  span,
+footer h3,
+.copyRight span{color: #ffD500;}
+.dropdown-menu{
+    border-top: 1px solid #ffD500;
+}
+
+.testmonials  .carousel-indicators li.active,
+.color-option{border: 2px solid #ffD500;}
+
+.dropdown-menu > li > a:hover, 
+.dropdown-menu > li > a:focus,
+.dropdown-menu .divider,
+.carousel-indicators .active,
+.my_btn,
+#scrolltop,
+.option-box i {background: #ffD500; }
+.nicescroll-cursors {background: #ffD500 !important;  }
+.navbar-inverse .navbar-nav > .active > a,
+.navbar-inverse .navbar-nav > .active > a:hover,
+.navbar-inverse .navbar-nav > .active > a:focus{
+    background: #ffD500;
+    color: #fff;
+}
+.carousel-caption:hover { box-shadow: 0 0 3px #ffD500;}
+

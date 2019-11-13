@@ -1,0 +1,38 @@
+.fqa-section{
+    overflow: hidden;
+    background: #f5f5f5;
+}
+.breadcrumb { 
+    font-family: var(--paragraph-font);
+    margin-bottom: 0;
+    padding: 10px;
+    font-size: 14px;
+}
+
+
+.content h1{ 
+    font-family: var(--paragraph-font);
+    margin-top: 80px;
+    font-weight: bold;
+    font-size: 60px;
+}
+.content .lead{ 
+    font-family: var(--paragraph-font); 
+}
+
+.panel-default > .panel-heading {
+    color: #fff;
+    background-color: #e74242;
+    border-color: rgb(15, 14, 14);
+    padding: 20px;
+    text-transform: capitalize;
+    
+}
+.panel-default > .panel-heading + .panel-collapse > .panel-body {
+    border-top-color: #ddd; 
+}
+.panel-group .panel { 
+    margin-bottom: 10px;
+}
+.collPase{ overflow: hidden;}
+
